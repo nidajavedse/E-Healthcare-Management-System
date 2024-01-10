@@ -1,0 +1,36 @@
+hira@gmail.com
+hira
+female
+18
+Pneumonia
+034678998765
+nida@gmail.com
+nida
+female
+21
+foot rot
+03409876544
+sawara@gmail.com
+sawara
+female
+21
+Cough
+03456788765
+ali@gmail.com
+ali
+female
+30
+Severe diarrhea
+034567865345
+ahsan@gmail.com
+ahsan ali
+male
+56
+wiegth loss
+03456787654
+1234
+hira
+female
+20
+fever
+03408167298
